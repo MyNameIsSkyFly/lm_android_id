@@ -1,10 +1,10 @@
 name: lm_android_id
 description: "获取 android id"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/MyNameIsSkyFly/lm_android_id.git
 
 environment:
-  sdk: ^3.7.2
+  sdk: ^3.6.0
   flutter: '>=3.3.0'
 
 dependencies:
