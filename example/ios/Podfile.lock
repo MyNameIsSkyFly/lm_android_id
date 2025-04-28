@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - lm_android_id (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - lm_android_id (from `.symlinks/plugins/lm_android_id/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  lm_android_id:
+    :path: ".symlinks/plugins/lm_android_id/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  lm_android_id: 79e203771a73424ea94b173407306f8864434338
+
+PODFILE CHECKSUM: 4305caec6b40dde0ae97be1573c53de1882a07e5
+
+COCOAPODS: 1.16.2
